@@ -1,0 +1,2 @@
+#just demo
+demo_user_role: { 0: admin, 1: guest}

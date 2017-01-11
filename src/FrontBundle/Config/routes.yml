@@ -1,0 +1,6 @@
+home:
+      pattern: /
+      parameters:
+        _controller: Front@Home::index
+        methods:  [GET]
+        routeName: home

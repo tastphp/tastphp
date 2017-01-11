@@ -1,0 +1,3 @@
+# for production
+FrontBundle:
+    resource: FrontBundle/Config/routes.yml

@@ -1,0 +1,9 @@
+imports:
+    - { resource: app.yml, name: app }
+    - { resource: parameters.yml,name: parameters  }
+#business logic config
+business_config:
+  front_config:
+      resource: FrontBundle/Config/config.yml
+  common_config:
+      resource: Common/Config/config.yml

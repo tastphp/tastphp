@@ -1,0 +1,28 @@
+{
+  "name": "tast-php/tast-php",
+  "description": "The TastPHP Framework",
+  "keywords": [
+    "tast",
+    "php",
+    "framework"
+  ],
+  "homepage": "https://github.com/tastphp/tastphp",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xujiajun",
+      "email": "me@xujiajun.cn",
+      "homepage": "http://xujiajun.cn"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TastPHP\\": [
+        "src/"
+      ]
+    }
+  },
+  "require": {
+    "tastphp/framework": "dev-master"
+  }
+}

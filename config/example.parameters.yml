@@ -1,0 +1,15 @@
+#csrf change it
+csrf.secret: tastphp.token
+csrf.ttl: 1440
+
+#swift mail
+swift.mail.host: hwsmtp.exmail.qq.com
+swift.mail.port: 25
+# change it
+swift.mail.username: xxx
+swift.mail.password: xxx
+swift.mail.enabled: on
+
+#beanstalkd # change it
+beanstalkd.host: 127.0.0.1
+tube: tastphpframework
