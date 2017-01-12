@@ -12,7 +12,11 @@ Tastphp, A PHP Framework,Sexy and Powerful.
 ## Installation
 
 ```
-composer require tastphp/tastphp:dev-master
+git clone https://github.com/tastphp/tastphp.git
+
+cd tastphp
+
+composer update
 ```
 ## Features
 * Symfony Style
