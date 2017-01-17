@@ -1,2 +1,5 @@
 .idea/
 vendor/
+config/app.yml
+config/parameters.yml
+var/cache
