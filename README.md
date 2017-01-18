@@ -1,4 +1,4 @@
-# TastPHP Framework
+# TastPHP Framework ![Build Status](https://api.travis-ci.org/tastphp/tastphp.svg?branch=master)
 Tastphp, A PHP Framework,Sexy and Powerful.
 ```
   _____            _    ____   _   _  ____  
