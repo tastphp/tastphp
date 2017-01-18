@@ -1,0 +1,3 @@
+#for test
+TestBundle_test:
+    resource: TestBundle/Config/routes_test.yml

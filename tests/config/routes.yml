@@ -1,0 +1,2 @@
+TestBundle:
+    resource: TestBundle/Config/routes.yml

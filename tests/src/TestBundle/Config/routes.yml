@@ -1,0 +1,6 @@
+test_foo:
+      pattern: /
+      parameters:
+        _controller: Test@Foo::index
+        methods:  [GET]
+        routeName: test_foo

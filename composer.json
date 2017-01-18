@@ -22,7 +22,15 @@
       ]
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "TastPHP\\Tests\\": "tests/src"
+    }
+  },
   "require": {
     "tastphp/framework": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.5.*"
   }
 }

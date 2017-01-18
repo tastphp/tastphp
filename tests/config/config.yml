@@ -1,0 +1,7 @@
+imports:
+    - { resource: app.yml, name: app }
+    - { resource: parameters.yml,name: parameters  }
+#business logic config
+business_config:
+  test_config:
+      resource: TestBundle/Config/config.yml
