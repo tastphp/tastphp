@@ -1,4 +1,4 @@
-# TastPHP Framework ![Build Status](https://api.travis-ci.org/tastphp/tastphp.svg?branch=master)
+# TastPHP Framework ![Build Status](https://api.travis-ci.org/tastphp/tastphp.svg?branch=master)[![Code Climate](https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg)](https://codeclimate.com/github/tastphp/tastphp)
 Tastphp, A PHP Framework,Sexy and Powerful.
 ```
   _____            _    ____   _   _  ____  
