@@ -30,5 +30,10 @@ composer update
 * EventDispatcher
 * More
 
+## Requirements
+
+  * PHP 5.6+ or later
+  * Redis extension
+
 ## License
 [MIT Licensed](http://www.opensource.org/licenses/MIT)
