@@ -1,0 +1,15 @@
+dbs.options:
+   master:
+         driver: pdo_mysql
+         host: 127.0.0.1
+         password:
+         user: root
+         dbname: tastphp
+         charset: utf8mb4
+   slave1:
+         driver: pdo_mysql
+         host: 127.0.0.1
+         user: root
+         password:
+         dbname: tastphp
+         charset: utf8mb4
