@@ -2,5 +2,6 @@
 vendor/
 config/app.yml
 config/parameters.yml
+config/db.yml
 var/cache
 var/logs
