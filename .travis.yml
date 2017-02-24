@@ -6,14 +6,19 @@ php:
 
 sudo: required
 
+env:
+  - DB=mysql
+
 install:
   - composer install --dev
 
 services:
   - redis-server
 before_install:
+  - composer update tastphp/framework:dev-master --prefer-source
   - phpenv config-rm xdebug.ini
   - echo "extension = redis.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+  - if [[ "$DB" == "mysql" ]]; then mysql -e "create database IF NOT EXISTS tastphp_demo;" -uroot; fi
 script:
   - ./vendor/bin/phpunit
 after_script:
