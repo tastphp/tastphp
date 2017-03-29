@@ -2,6 +2,6 @@
 
 require "bootstrap.php";
 
-$app = new TastPHP\App\Appkernel();
+$app = new TastPHP\App\AppKernel();
 
 $app->run();
