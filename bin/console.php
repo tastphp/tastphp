@@ -13,7 +13,7 @@ define('__BASEDIR__', __DIR__ . '/..');
 
 chdir(__DIR__ . '/../config');
 
-$appConfig = Yaml::parse(file_get_contents(__BASEDIR__.'/config/app.yml'));
+$appConfig = Yaml::parse(file_get_contents('app.yml'));
 
 $cli = new Console\Application('  _____            _    ____   _   _  ____  
  |_   _|__ _  ___ | |_ |  _ \ | | | ||  _ \ 
