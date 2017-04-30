@@ -35,5 +35,10 @@ composer update
   * PHP 5.6+ or later
   * Redis extension
 
+## Documentation
+
+* [中文](https://docs.tastphp.com/zh/)
+* [English](https://docs.tastphp.com/en/)
+  
 ## License
 [MIT Licensed](http://www.opensource.org/licenses/MIT)
