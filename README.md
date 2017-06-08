@@ -10,7 +10,7 @@
 
 ## About Tastphp
 
-Tastphp is A **PHP framework** for **the modern developer**.
+Tastphp is a **PHP framework** for **the modern developer**. Tastphp is used by some web application (like clothesmake.com)
 
 
 ## Installation
