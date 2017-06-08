@@ -1,13 +1,17 @@
-# TastPHP Framework ![Build Status](https://api.travis-ci.org/tastphp/tastphp.svg?branch=master) [![Code Climate](https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg)](https://codeclimate.com/github/tastphp/tastphp)
-Tastphp, A PHP Framework for the modern developer.
-```
-  _____            _    ____   _   _  ____  
- |_   _|__ _  ___ | |_ |  _ \ | | | ||  _ \ 
-   | | / _` |/ __|| __|| |_) || |_| || |_) |
-   | || (_| |\__ \| |_ |  __/ |  _  ||  __/ 
-   |_| \__,_||___/ \__||_|    |_| |_||_|    
-                                            
-```
+<p align="center">
+    <img height="50%" width="50%" src="https://raw.githubusercontent.com/tastphp-lab/assets/master/logo/tastphp-logo-big.png">
+</p>
+
+<p align="center">
+<a href="https://travis-ci.org/tastphp/tastphp"><img src="https://api.travis-ci.org/tastphp/tastphp.svg?branch=master" alt="Build Status"></a>
+<a href="https://codeclimate.com/github/tastphp/tastphp"><img src="https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg" alt="Code Climate"></a>
+<a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/license" alt="License"></a>
+</p>
+
+## About Tastphp
+
+Tastphp is A **PHP framework** for **the modern developer**.
+
 
 ## Installation
 
