@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://travis-ci.org/tastphp/tastphp"><img src="https://api.travis-ci.org/tastphp/tastphp.svg?branch=master" alt="Build Status"></a>
 <a href="https://codeclimate.com/github/tastphp/tastphp"><img src="https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg" alt="Code Climate"></a>
+<a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/v/stable" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/license" alt="License"></a>
 </p>
 
