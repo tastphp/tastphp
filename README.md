@@ -16,13 +16,10 @@ Tastphp is a **PHP framework** for **the modern developer**. Tastphp is used by 
 
 ## Installation
 
-```
-git clone https://github.com/tastphp/tastphp.git
 
-cd tastphp
+use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 
-composer update
-```
+
 ## Features
 * Symfony Style
 * Dependency Injection Container.
