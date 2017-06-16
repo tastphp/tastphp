@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="40%" width="40%" src="https://raw.githubusercontent.com/tastphp-lab/assets/master/logo/tastphp-logo-big.png">
+    <img height="70%" width="70%" src="https://raw.githubusercontent.com/tastphp-lab/assets/master/logo/tastphp-logo-big.png">
 </p>
 
 <p align="center">
