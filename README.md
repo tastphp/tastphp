@@ -30,6 +30,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 * DBAL
 * Migrations
 * EventDispatcher
+* Mysql （master/slave - write/read split）
 * More
 
 ## Requirements
