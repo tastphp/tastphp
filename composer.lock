@@ -2225,21 +2225,21 @@
         },
         {
             "name": "tastphp/framework",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tastphp/framework.git",
-                "reference": "d965cf0e9ade59958d9a3c7cc886915c336da02c"
+                "reference": "4f4f7d28825265fa345287265bf337dd80d6b3e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tastphp/framework/zipball/d965cf0e9ade59958d9a3c7cc886915c336da02c",
-                "reference": "d965cf0e9ade59958d9a3c7cc886915c336da02c",
+                "url": "https://api.github.com/repos/tastphp/framework/zipball/4f4f7d28825265fa345287265bf337dd80d6b3e8",
+                "reference": "4f4f7d28825265fa345287265bf337dd80d6b3e8",
                 "shasum": ""
             },
             "require": {
                 "doctrine/dbal": "2.5.4",
-                "doctrine/migrations": "^1.4",
+                "doctrine/migrations": "^1.4|1.4",
                 "filp/whoops": "^2.1",
                 "jeremykendall/php-domain-parser": "~2.0",
                 "lcobucci/jwt": "^3.1",
@@ -2291,7 +2291,7 @@
                 "framework",
                 "tastphp"
             ],
-            "time": "2017-07-12T08:58:01+00:00"
+            "time": "2017-07-12T10:05:11+00:00"
         },
         {
             "name": "twig/twig",
