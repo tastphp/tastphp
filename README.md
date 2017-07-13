@@ -1,23 +1,28 @@
-# TastPHP Framework ![Build Status](https://api.travis-ci.org/tastphp/tastphp.svg?branch=master) [![Code Climate](https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg)](https://codeclimate.com/github/tastphp/tastphp)
-Tastphp, A PHP Framework for the modern developer.
-```
-  _____            _    ____   _   _  ____  
- |_   _|__ _  ___ | |_ |  _ \ | | | ||  _ \ 
-   | | / _` |/ __|| __|| |_) || |_| || |_) |
-   | || (_| |\__ \| |_ |  __/ |  _  ||  __/ 
-   |_| \__,_||___/ \__||_|    |_| |_||_|    
-                                            
-```
+<p align="center">
+    <img height="70%" width="70%" src="https://raw.githubusercontent.com/tastphp-lab/assets/master/logo/tastphp-logo-big.png">
+</p>
+
+<p align="center">
+<a href="https://travis-ci.org/tastphp/tastphp"><img src="https://api.travis-ci.org/tastphp/tastphp.svg?branch=master" alt="Build Status"></a>
+<a href="https://codeclimate.com/github/tastphp/tastphp"><img src="https://codeclimate.com/github/tastphp/tastphp/badges/gpa.svg" alt="Code Climate"></a>
+<a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/license" alt="License"></a>
+</p>
+
+## About Tastphp
+
+Tastphp is a **PHP framework** for **the modern developer**. Tastphp is used by some web application (like clothesmake.com)
+
+> Tastphp core visit this [Framework Repository](https://github.com/tastphp/framework).
+
+
 
 ## Installation
 
-```
-git clone https://github.com/tastphp/tastphp.git
 
-cd tastphp
+use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 
-composer update
-```
+
 ## Features
 * Symfony Style
 * Dependency Injection Container.
@@ -28,12 +33,18 @@ composer update
 * DBAL
 * Migrations
 * EventDispatcher
+* Mysql （master/slave - write/read split）
 * More
 
 ## Requirements
 
-  * PHP 5.6+ or later
+  * PHP 7+
   * Redis extension
 
+## Documentation
+
+* [中文](https://docs.tastphp.com/zh/)
+* [English](https://docs.tastphp.com/en/)
+  
 ## License
 [MIT Licensed](http://www.opensource.org/licenses/MIT)

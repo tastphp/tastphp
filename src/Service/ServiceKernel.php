@@ -4,7 +4,7 @@ namespace TastPHP\Service;
 
 class ServiceKernel
 {
-    private static $_instance = null;
+    private static $instance = null;
 
     protected $container = [];
 
@@ -17,11 +17,11 @@ class ServiceKernel
 
     static function instance()
     {
-        if (!self::$_instance) {
-            self::$_instance = new self();
+        if (!self::$instance) {
+            self::$instance = new self();
         }
 
-        return self::$_instance;
+        return self::$instance;
     }
 
     public function setConnection($connection)

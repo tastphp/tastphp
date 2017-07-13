@@ -1,6 +1,7 @@
-version: v1.0.0
+version: v1.3.1
 debug: true
 secret: tastphp
 # dev | test | prod
 env: dev
 timezone: UTC
+name: tastphp
