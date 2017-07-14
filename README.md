@@ -40,6 +40,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 * JWT
 * Mail
 * CsrfToken
+* ...
 
 ## Requirements
 
