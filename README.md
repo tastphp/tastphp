@@ -27,6 +27,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 * Symfony Style
 * Dependency Injection Container.
 * M（Service/Dao）VC Architecture
+* Router
 * Twig
 * Console Support
 * Debug Bar
@@ -34,7 +35,11 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 * Migrations
 * EventDispatcher
 * Mysql （master/slave - write/read split）
-* More
+* Queue
+* Cache
+* JWT
+* Mail
+* CsrfToken
 
 ## Requirements
 
