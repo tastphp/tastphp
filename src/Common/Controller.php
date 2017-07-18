@@ -2,8 +2,6 @@
 
 namespace TastPHP\Common;
 
-use Symfony\Bridge\PsrHttpMessage\Factory\DiactorosFactory;
-use Symfony\Bridge\PsrHttpMessage\Factory\HttpFoundationFactory;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Request;
@@ -53,7 +51,7 @@ class Controller
         }
 
         $content = $this->container['twig']->render($html, $parameters);
-        return $this->response($content, 200);
+        return new Response($content, 200);
     }
 
     /**
@@ -159,22 +157,5 @@ class Controller
     protected function json($data, $status = 200, array $header = [])
     {
         $this->get('eventDispatcher')->dispatch(AppEvent::RESPONSE, new HttpEvent(null, new JsonResponse($data, $status, $header)));
-    }
-
-    /**
-     * @param string $content
-     * @param int $status
-     * @param array $headers
-     * @return Response
-     */
-    protected function response($content = '', $status = 200, $headers = array())
-    {
-        $response = new Response($content, $status, $headers);
-
-        $psr7Factory = new DiactorosFactory();
-        $psrResponse = $psr7Factory->createResponse($response);
-
-        $httpFoundationFactory = new HttpFoundationFactory();
-        return $httpFoundationFactory->createResponse($psrResponse);
     }
 }
