@@ -41,11 +41,10 @@ class Controller
     protected function render($html, $parameters = [])
     {
         if ($this->container['debug']) {
+            $parameters['TwigPath'] = $html;
             if ($this->container->singleton('debugbar')->hasCollector('view')) {
-                $parameters['TwigPath'] = $html;
                 $this->container->singleton('debugbar')->getCollector('view')->setData($parameters);
             } else {
-                $parameters['TwigPath'] = $html;
                 $this->container->singleton('debugbar')->addCollector(new VarCollector($parameters));
             }
         }
