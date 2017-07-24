@@ -51,6 +51,12 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 
 * [中文](https://docs.tastphp.com/zh/)
 * [English](https://docs.tastphp.com/en/)
+
+
+## Related Projects
+
+* [tastphp-swoole](https://github.com/tastphp/tastphp-swoole) : tastphp swoole branch
+* [tastphp-installer](https://github.com/tastphp/installer): tastphp install tool
   
 ## License
 [MIT Licensed](http://www.opensource.org/licenses/MIT)
