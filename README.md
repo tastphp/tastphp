@@ -55,6 +55,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 
 ## Related Projects
 
+* [tastphp-docs](https://github.com/tastphp/tastphp-docs): tastphp documents
 * [tastphp-swoole](https://github.com/tastphp/tastphp-swoole) : tastphp swoole branch
 * [tastphp-installer](https://github.com/tastphp/installer): tastphp install tool
   
