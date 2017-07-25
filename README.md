@@ -60,4 +60,4 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 * [tastphp-installer](https://github.com/tastphp/installer): tastphp install tool
   
 ## License
-[MIT Licensed](http://www.opensource.org/licenses/MIT)
+The Tastphp framework is open-sourced software licensed under the [MIT Licensed](http://www.opensource.org/licenses/MIT)
