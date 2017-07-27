@@ -45,7 +45,6 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 ## Requirements
 
   * PHP 7+
-  * Redis extension
 
 ## Documentation
 
