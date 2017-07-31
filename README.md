@@ -45,12 +45,18 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 ## Requirements
 
   * PHP 7+
-  * Redis extension
 
 ## Documentation
 
 * [中文](https://docs.tastphp.com/zh/)
 * [English](https://docs.tastphp.com/en/)
+
+
+## Related Projects
+
+* [tastphp-docs](https://github.com/tastphp/tastphp-docs): tastphp documents
+* [tastphp-swoole](https://github.com/tastphp/tastphp-swoole) : tastphp swoole branch
+* [tastphp-installer](https://github.com/tastphp/installer): tastphp install tool
   
 ## License
-[MIT Licensed](http://www.opensource.org/licenses/MIT)
+The Tastphp framework is open-sourced software licensed under the [MIT Licensed](http://www.opensource.org/licenses/MIT)
