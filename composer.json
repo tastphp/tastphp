@@ -28,7 +28,7 @@
     }
   },
   "require": {
-    "tastphp/framework": "~1.1"
+    "tastphp/framework": "~1.6"
   },
   "require-dev": {
     "phpunit/phpunit": "5.5.*"
