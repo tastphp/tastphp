@@ -1,4 +1,8 @@
 # Release Notes
+## v1.3.2 （2017.7.31）
+* Change console.php to console
+* compatible no config file
+
 ## v1.3.1 （2017.7.13）
 *  modify app example version
 ## v1.3.0 （2017.7.13）
