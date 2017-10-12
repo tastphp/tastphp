@@ -1,4 +1,7 @@
 # Release Notes
+## v1.3.3 （2017.10.12）
+* remove console GenerateAdminController & GenerateAdminRoutes Command
+
 ## v1.3.2 （2017.7.31）
 * Change console.php to console
 * compatible no config file
