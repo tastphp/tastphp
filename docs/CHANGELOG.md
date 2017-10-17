@@ -1,4 +1,8 @@
 # Release Notes
+
+## v1.3.4 （2017.10.12）
+* change Tastphp core Framework version to ~1.7
+
 ## v1.3.3 （2017.10.12）
 * remove console GenerateAdminController & GenerateAdminRoutes Command
 
