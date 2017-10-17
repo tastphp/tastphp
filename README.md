@@ -24,6 +24,12 @@ Tastphp is a **PHP framework** for **the modern developer**. Tastphp is used by 
 
 use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 
+or use composer command:
+
+```
+composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.4"
+```
+
 
 ## Features
 * Symfony Style
