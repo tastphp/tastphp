@@ -14,6 +14,7 @@ class AppKernel extends Kernel
     {
         // $this->replaceListener(AppEvent::REQUEST,RequestListener::class.'@onRequestAction');
         // $this->replaceListener(AppEvent::MIDDLEWARE,MiddlewareListener::class.'@onMiddlewareAction');
+        $this->registerTwigService();
         parent::__construct($values);
     }
 
