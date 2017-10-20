@@ -37,6 +37,8 @@ $commands[] = new MigrationsCommand\VersionCommand();
 $commands[] = new \TastPHP\Framework\Console\Command\GenerateEntityServiceCommand();
 $commands[] = new \TastPHP\Framework\Console\Command\GenerateServiceCommand();
 $commands[] = new \TastPHP\Framework\Console\Command\GenerateBundleCommand();
+$commands[] = new \TastPHP\Framework\Console\Command\CacheConfigCommand();
+$commands[] = new \TastPHP\Framework\Console\Command\CacheRouteCommand();
 
 $cli->addCommands($commands);
 

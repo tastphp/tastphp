@@ -1,4 +1,4 @@
-version: v1.3.2
+version: v1.3.5
 debug: true
 secret: tastphp
 # dev | test | prod

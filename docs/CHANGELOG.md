@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.3.5 （2017.10.20）
+### Added
+* CacheConfigCommand && CacheRouteCommand
+* default register twig
+
 ## v1.3.4 （2017.10.12）
 * change Tastphp core Framework version to ~1.7
 
