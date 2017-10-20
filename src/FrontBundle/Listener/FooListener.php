@@ -8,6 +8,6 @@ class FooListener
 {
     public function onFooAction(HttpEvent $event)
     {
-        dump("onFooAction!");
+//        dump("onFooAction!");
     }
 }

@@ -1,5 +1,5 @@
-#app.foo:
-#  event: app.foo
-#  listener: TastPHP\FrontBundle\Listener\FooListener
-#  callback: onFooAction
-#  priority: 0
+app.foo:
+  event: app.foo
+  listener: TastPHP\FrontBundle\Listener\FooListener
+  callback: onFooAction
+  priority: 0
