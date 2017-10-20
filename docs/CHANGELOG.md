@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.3.6 （2017.10.20）
+* modify composer.lock
+
 ## v1.3.5 （2017.10.20）
 ### Added
 * CacheConfigCommand && CacheRouteCommand
