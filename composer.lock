@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "66b360d3adb360a9019227e127bfe944",
+    "content-hash": "d924734baa80680cc6dcfa29edac15eb",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -2225,16 +2225,16 @@
         },
         {
             "name": "tastphp/framework",
-            "version": "v1.4.0",
+            "version": "v1.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tastphp/framework.git",
-                "reference": "d08e518fcf577c2a68c7c4f7e90fb969ec40f0a1"
+                "reference": "b2a5029c535dc3abb04000ffa24b084219fb3e39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tastphp/framework/zipball/d08e518fcf577c2a68c7c4f7e90fb969ec40f0a1",
-                "reference": "d08e518fcf577c2a68c7c4f7e90fb969ec40f0a1",
+                "url": "https://files.phpcomposer.com/files/tastphp/framework/b2a5029c535dc3abb04000ffa24b084219fb3e39.zip",
+                "reference": "b2a5029c535dc3abb04000ffa24b084219fb3e39",
                 "shasum": ""
             },
             "require": {
@@ -2291,7 +2291,7 @@
                 "framework",
                 "tastphp"
             ],
-            "time": "2017-07-18T10:31:05+00:00"
+            "time": "2017-10-20T03:53:42+00:00"
         },
         {
             "name": "twig/twig",
