@@ -62,9 +62,9 @@ detail: https://github.com/xujiajun/php-framework-benchmark
 
 ## Documentation
 
-* [中文](https://docs.tastphp.com/zh/)
-* [English](https://docs.tastphp.com/en/)
-
+* 中文 ( [在线阅读](https://docs.tastphp.com/zh/) |  [源码阅读](https://github.com/tastphp/tastphp-docs/blob/master/zh/SUMMARY.md))
+  
+* English (in progress)
 
 ## Related Projects
 
