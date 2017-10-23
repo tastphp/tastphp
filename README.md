@@ -50,11 +50,11 @@ composer create-project  --prefer-dist tast-php/tast-php {your install directory
 * CsrfToken
 * ...
 
-## Performance
+## Benchmark
 
 <img src="https://raw.githubusercontent.com/xujiajun/php-framework-benchmark/master/imgs/php-framework-vs.png">
 
-detail: https://github.com/xujiajun/php-framework-benchmark
+* See https://github.com/xujiajun/php-framework-benchmark for detail
 
 ## Requirements
 
