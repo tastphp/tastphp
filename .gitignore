@@ -2,7 +2,7 @@
 vendor/
 config/app.yml
 config/parameters.yml
-config/db.yml
+config/dbs.yml
 config/listeners.yml
 var/cache
 var/logs
