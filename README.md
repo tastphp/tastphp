@@ -27,7 +27,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 or use composer command:
 
 ```
-composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.4"
+composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.6"
 ```
 
 
@@ -50,15 +50,21 @@ composer create-project  --prefer-dist tast-php/tast-php {your install directory
 * CsrfToken
 * ...
 
+## Benchmark
+
+<img src="https://raw.githubusercontent.com/xujiajun/php-framework-benchmark/master/imgs/php-framework-vs.png">
+
+* See https://github.com/xujiajun/php-framework-benchmark for detail
+
 ## Requirements
 
   * PHP 7+
 
 ## Documentation
 
-* [中文](https://docs.tastphp.com/zh/)
-* [English](https://docs.tastphp.com/en/)
-
+* 中文 ( [在线阅读](https://docs.tastphp.com/zh/) |  [源码阅读](https://github.com/tastphp/tastphp-docs/blob/master/zh/SUMMARY.md))
+  
+* English (in progress)
 
 ## Related Projects
 
