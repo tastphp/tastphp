@@ -11,6 +11,8 @@
 <a href="https://packagist.org/packages/tast-php/tast-php"><img src="https://poser.pugx.org/tast-php/tast-php/license" alt="License"></a>
 </p>
 
+[简体中文](https://github.com/tastphp/tastphp/blob/master/README-CN.md)
+
 ## About Tastphp
 
 Tastphp is a **PHP framework** for **the modern developer**. Tastphp is used by some web application (like clothesmake.com)
