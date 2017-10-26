@@ -19,7 +19,7 @@ Tastphp is a **PHP framework** for **the modern developer**. It is **flexible, c
 
 Tastphp is used by some web application (like [www.clothesmake.com](https://www.clothesmake.com)、[www.clothesmake.com.cn](https://www.clothesmake.com.cn))
 
-> Tastphp core visit this [Framework Repository](https://github.com/tastphp/framework).
+> Tastphp core visit this [Framework Repository](https://github.com/tastphp/framework). This repository is skeleton to get started with Tastphp
 
 
 
