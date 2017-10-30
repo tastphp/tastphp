@@ -30,7 +30,7 @@ Tastphp是一款现代化的PHP框架，具备灵活、组件化、可拔插、�
 或者使用composer的命令：
 
 ```
-composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.6"
+composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.7"
 ```
 
 
