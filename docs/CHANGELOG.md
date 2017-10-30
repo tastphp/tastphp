@@ -1,5 +1,15 @@
 # Release Notes
 
+## v1.3.7 （2017.10.30）
+* change tastphp framework composer version to [2.0.0](https://github.com/tastphp/framework/releases/tag/v2.0.0)
+* modify  registerService function:
+```
+    protected function registerService($name)
+    {
+        return $this->container['serviceKernel']->registerService($name);
+    }
+```
+
 ## v1.3.6 （2017.10.20）
 * modify composer.lock
 
