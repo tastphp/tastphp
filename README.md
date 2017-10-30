@@ -31,7 +31,7 @@ use [tastphp-installer](https://github.com/tastphp/tastphp-installer)
 or use composer command:
 
 ```
-composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.6"
+composer create-project  --prefer-dist tast-php/tast-php {your install directory} "1.3.7"
 ```
 
 
