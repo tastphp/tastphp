@@ -30,7 +30,7 @@ class Controller
      */
     protected function registerService($name)
     {
-        return $this->container['service_kernel']->registerService($name);
+        return $this->container['serviceKernel']->registerService($name);
     }
 
     /**
@@ -60,10 +60,6 @@ class Controller
     protected function get($name = '')
     {
         $name = (string)$name;
-
-        if (empty($this->container[$name])) {
-            return null;
-        }
 
         return $this->container[$name];
     }
