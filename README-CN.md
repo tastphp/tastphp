@@ -17,7 +17,7 @@ Tastphp是一款现代化的PHP框架，具备灵活、组件化、可拔插、�
 
 已经被一些项目采用（如 [www.clothesmake.com](https://www.clothesmake.com)、[www.clothesmake.com.cn](https://www.clothesmake.com.cn)）
 
-> Tastphp 核心地址：https://github.com/tastphp/framework 这个项目是基于Tastphp核心的骨架项目。
+> Tastphp 核心地址：https://github.com/tastphp/framework 。当前这个仓库代码是基于Tastphp核心的骨架项目。
 
 
 
