@@ -75,6 +75,9 @@ composer create-project  --prefer-dist tast-php/tast-php {your install directory
 * [tastphp-docs](https://github.com/tastphp/tastphp-docs): tastphp documents
 * [tastphp-swoole](https://github.com/tastphp/tastphp-swoole) : tastphp swoole branch
 * [tastphp-installer](https://github.com/tastphp/installer): tastphp install tool
-  
+
+## Contributing
+If you'd like to help out with the project. You can put up a Pull Request.
+
 ## License
 The Tastphp framework is open-sourced software licensed under the [MIT Licensed](http://www.opensource.org/licenses/MIT)
