@@ -74,6 +74,9 @@ composer create-project  --prefer-dist tast-php/tast-php {your install directory
 * [tastphp-docs](https://github.com/tastphp/tastphp-docs): tastphp 官方文档源码
 * [tastphp-swoole](https://github.com/tastphp/tastphp-swoole) : tastphp swoole 分支
 * [tastphp-installer](https://github.com/tastphp/installer): tastphp 安装器
-  
+
+## 贡献
+如果你想帮助这个项目。你可以提交Pull Request
+
 ## 许可证
 The Tastphp 开源项目基于 [MIT Licensed](http://www.opensource.org/licenses/MIT)
